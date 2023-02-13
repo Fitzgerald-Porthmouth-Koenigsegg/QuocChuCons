@@ -14101,7 +14101,7 @@ vi	為
 ví	爲
 vị	爲
 vị	為
-làm	爫
+trảo	爫
 trảo	爪
 trẩu	爪
 vuốt	爪
@@ -30748,7 +30748,7 @@ choáng	爌
 quẳng	爌
 thoáng	爌
 rạch	爏
-lòm	爫
+lòm	𫜵
 va	爲
 vèo	爲
 vê	爲
