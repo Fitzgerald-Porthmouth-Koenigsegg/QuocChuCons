@@ -6,4 +6,6 @@
 
 整张表没有进行过排序，但不影响使用。
 
+出于广义读音覆盖考虑，整张表含有大量的类推，包含类推简化字和类推汉语音，介意者勿用。
+
 另外，您需安装额外的字库才能够正确显示全表内的字符，推荐使用[遍黑体](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project)。
