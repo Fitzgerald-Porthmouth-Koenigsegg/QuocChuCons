@@ -979,7 +979,6 @@ vú	乳
 nhú	乳
 nhỗ	乳
 nhũ	乳
-ót	𠃱
 chín	𠃩
 loạn	乱
 loàn	乱
@@ -2583,7 +2582,10 @@ bớn	半
 ngọ	午
 chợt	卒
 huỷ	𠦄
+huỷ	卉
+hủy	卉
 tạp	卉
+tạp	𠦄
 tạp	卅
 thiên	千
 dút	卒
@@ -5324,7 +5326,6 @@ bản	坂
 tường	墙
 nghạch	𡏤
 chợp	執
-chuụp	執
 trường	场
 phơ	坯
 ảng	坱
@@ -13392,6 +13393,11 @@ song	漴
 sưu	溲
 tấu	湊
 thấp	溼
+dấp	溼
+nhấp	溼
+thấm	溼
+chập	溼
+thắp	溼
 tố	溯
 ương	泱
 sũng	漴
@@ -26281,7 +26287,6 @@ bức	𰞃
 cánh	𰠞
 cáy	𰳙
 ca	𰙔
-chuụp	𰺥
 chấp	𰺥
 chập	𰺥
 chắp	𰺥
@@ -31129,6 +31134,13 @@ thúng	統
 ti	絲
 tỉ	絲
 tơ	絲
+ty	絲
+tưa	絲
+ti	丝
+tỉ	丝
+tơ	丝
+ty	丝
+tưa	丝
 tịt	絶
 tuyệt	絶
 mền	絻
@@ -35384,8 +35396,6 @@ xấp	𢩾
 xắp	𢩾
 xắp	执
 xụp	𢩾
-chuụp	𢩾
-chuụp	执
 chập	𢩾
 chặp	执
 chặp	𢩾
