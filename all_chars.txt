@@ -2584,6 +2584,9 @@ chợt	卒
 huỷ	𠦄
 huỷ	卉
 hủy	卉
+huỷ	芔
+hủy	芔
+tạp	𠦃
 tạp	卉
 tạp	𠦄
 tạp	卅
