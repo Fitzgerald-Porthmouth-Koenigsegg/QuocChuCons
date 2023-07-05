@@ -4,8 +4,8 @@
 
 表中左半部分是越南国语字，右半部分是越南汉喃文。
 
-整张表没有进行过排序，但不影响使用。
-
-出于广义读音覆盖考虑，整张表含有大量的类推，包含类推简化字和类推汉语音，介意者勿用。
-
-另外，您需安装额外的字库才能够正确显示全表内的字符，推荐使用[遍黑体](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project)。
+须知：
+1. 您需安装额外的字库才能够正确显示全表内的字符，推荐使用[遍黑体](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project)。
+2. 整张表没有进行过排序，但不影响使用。
+3. 本码表对于[小狼毫输入法](https://github.com/rime/weasel)、[中州韵输入法](https://github.com/loaden/rime)、同文输入法、鼠须管输入法的相性较高。
+4. 出于广义读音覆盖考虑，整张表含有大量的类推，包含类推简化字和类推汉语音，介意者勿用。
