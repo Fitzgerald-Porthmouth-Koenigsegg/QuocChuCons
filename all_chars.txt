@@ -35408,7 +35408,6 @@ chụp	𢩾
 chụp	执
 nhấp	湿
 thấm	湿
-thấp	湿
 chập	湿
 chập	濕
 thắp	濕
@@ -35606,3 +35605,4 @@ trụi	𰘾
 hoạ	𰢵
 mại	𱆤
 lẩu	𬪪
+miên	民
